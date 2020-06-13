@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Fonts/TitleFont.spritefont</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Graphics/starfield.png</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Graphics/Player/player-ship.png</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Graphics/Player/shot1.png</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Graphics/Enemy/enemy1.png</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Graphics/Enemy/enemy2.png</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Graphics/Enemy/enemy3.png</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Graphics/Enemy/enemy4.png</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Graphics/Enemy/mine1.png</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Graphics/Enemy/shot1.png</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Graphics/Menu/menu-button2-off.png</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Graphics/Menu/menu-button2-on.png</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Sounds/Menu/plip1.wav</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Sounds/Menu/plip2.wav</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Sounds/Menu/switch1.wav</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Sounds/Menu/bong1.wav</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Sounds/Combat/explode2.wav</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Sounds/Combat/explode3.wav</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Sounds/Combat/jump1.wav</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Graphics/Enemy/explode92x6.png</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Sounds/Combat/explode1x.wav</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Sounds/Combat/fire1x.wav</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Sounds/Combat/thrust1x.wav</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Sounds/Combat/rebound1.wav</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Graphics/Player/player-ship64x3.png</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Graphics/Title/OmegaZone-title.png</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Graphics/Arena/arena-center.png</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Graphics/Player/player2-ship64x3.png</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Sounds/Songs/OmegaZone-fight.mp3</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Sounds/Combat/evolve.wav</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Fonts/ArenaFont.spritefont</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Sounds/Songs/OmegaZone-level.mp3</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Sounds/Songs/OmegaZone-title.mp3</File>
+    <File>D:/Projects/MonoGame/Omega/Omega/Content/Sounds/Combat/warp1.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

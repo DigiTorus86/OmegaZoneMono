@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Projects/MonoGame/Omega/Omega/Content/Sounds/Songs/OmegaZone-title.mp3</SourceFile>
+  <SourceTime>2018-05-23T17:31:35.3827574-04:00</SourceTime>
+  <DestFile>D:/Projects/MonoGame/Omega/Omega/Content/bin/DesktopGL/Sounds/Songs/OmegaZone-title.xnb</DestFile>
+  <DestTime>2018-05-23T21:08:14.1687238-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/Projects/MonoGame/Omega/Omega/Content/bin/DesktopGL/Sounds/Songs/OmegaZone-title.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
